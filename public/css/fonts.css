@@ -103,6 +103,12 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans'), url('fonts/opensans/ProductSans-Regular.woff') format('woff');
+    }
 
 /*
  * Libre Baskerville

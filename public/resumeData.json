@@ -1,142 +1,100 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"Arnab Chatterjee",
+    "description":"",
+    "image":"profilepic.jpeg",
+    "bio":"I'm a 19 y/o Student and a Full Stack Web Developer currently working with GeeksForGeeks KIIT as a frontend and backend developer. As a Web Developer, I mostly work with React and NodeJS, and multiple other JavaScript frameworks which aid in making highly responsive web pages. I'm also a bot developer, having developed bots for Discord, Twitter and Chatbots.",
+    "email": "arnabc1701@gmail.com",
+    "phone": "9696 770 223",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Bhubaneshwar",
+      "state":"Odisha",
+      "zip": "751024"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/profile.php?id=100037306634656",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/cyanide_arnab",
         "className":"fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/_arn4b_",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Kalinga Institute of Industrial Technology",
+        "degree":"B. Tech. in Computer Science and System Engineering",
+        "graduated":"April 2023",
+        "description":"I'm an undergrad at KIIT University pursuing Computer Science with a cummulative GPA of 9.20."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"St. Joseph's School, Shaktinagar",
+        "degree":"AISSCE",
+        "graduated":"March 2019",
+        "description":"I've done my Secondary and Senior Secondary education from SJS Shaktinagar, with a percentage of 87.8%."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"GeeksForGeeks KIIT",
+        "title":"Web Developer",
+        "years":"December 2020 - Present",
+        "description":"Designed frontend of the official GeeksForGeeks KIIT website."
       }
     ],
-    "skills":[
+
+    "skill":[
       {
-        "name":"Python",
-        "level":"60%"
+        "company":"Languages",
+        "title":"C  •  C++  •  JavaScript • SQL/NoSQL"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "company":"Technologies",
+        "title":"React  •  NodeJS  •  Heroku  •  GCP • Firebase"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "company":"Tools",
+        "title":"Visual Studio Code  •  Git  •  Postman  •  Oracle DB"
       }
     ]
+
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"MERN Stack Instagram Clone",
+        "category":"Full Stack Instagram Web App Clone using MERN Stack",
+        "image":"instaclone.jpg",
+        "url":"https://github.com/arn4b/instagram-clone"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Discord Moderation Bot",
+        "category":"Discord bot for user and content moderation",
+        "image":"discordbot.jpg",
+        "url":"https://github.com/arn4b/Discord-bot-gen1"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Firechat",
+        "category":"React + Firebase Chatroom Application",
+        "image":"firechat.jpg",
+        "url":"https://github.com/arn4b/superchat"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"DialogFlow Chatbot",
+        "category":"Chatbot to set appointments and meetings, powered by Google",
+        "image":"dialog.jpg"
       }
     ]
   }
